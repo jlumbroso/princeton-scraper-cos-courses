@@ -44,8 +44,8 @@ if __name__ == "__main__":
     if generate_feeds:
         save_all = False
         
-        records = princeton_scraper_cos_courses.output.json_output()
-        output = json.dumps(records, indent=2)
+        output = princeton_scraper_cos_courses.output.json_output()
+        records = json.loads(output).get("data", [])
 
         dirpath = os.path.join(feeds_output, "feeds")
         filepath = os.path.join(dirpath, "index.json")
