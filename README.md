@@ -29,7 +29,7 @@ if r.ok:
 
 ## Feed format
 
-This feed provides most people in the directory as a JSON dictionary with
+This feed provides most courses on the schedule as a JSON dictionary with
 the following fields:
 
 ```json
