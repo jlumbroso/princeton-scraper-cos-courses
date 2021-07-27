@@ -12,7 +12,7 @@ import princeton_scraper_cos_courses.helpers
 __author__ = "Jérémie Lumbroso <lumbroso@cs.princeton.edu>"
 
 __all__ = [
-    "fetch_cos_people_directory",
+    "fetch_cos_courses",
 ]
 
 
