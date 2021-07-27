@@ -1,12 +1,12 @@
 # Princeton COS Courses Scraper
 
 This is a web scraper that produces machine-processable JSON feeds
-of Princeton University's Department of Computer Science directory, sourced
-from [the official, publicly available directory](https://www.cs.princeton.edu/people).
+of Princeton University's Department of Computer Science course schedule history,
+sourced from
+[the official, publicly available schedule](https://www.cs.princeton.edu/courses/schedule).
 
-You can see [the main JSON feed by clicking here](https://jlumbroso.github.io/princeton-scraper-cos-people/feeds/).
+You can see [the JSON feed by clicking here](https://jlumbroso.github.io/princeton-scraper-cos-courses/feeds/).
 
-There are also sub-feeds by category of persons (faculty, grad students, staff, etc.).
 These feeds are all updated _every week on Saturday_. Read on to learn more.
 
 ## Accessing the static feeds
@@ -14,26 +14,15 @@ These feeds are all updated _every week on Saturday_. Read on to learn more.
 You can access the main (regularly updated) JSON feed directly from this URL:
 
 ```text
-https://jlumbroso.github.io/princeton-scraper-cos-people/feeds/
+https://jlumbroso.github.io/princeton-scraper-cos-courses/feeds/
 ```
-
-There are sub-feeds available for the different categories of people:
-
-- [`admin-staff`](https://jlumbroso.github.io/princeton-scraper-cos-people/feeds/admin-staff/)
-- [`affiliated-faculty`](https://jlumbroso.github.io/princeton-scraper-cos-people/feeds/affiliated-faculty/)
-- [`emeritus-faculty`](https://jlumbroso.github.io/princeton-scraper-cos-people/feeds/emeritus-facultyf/)
-- [`faculty`](https://jlumbroso.github.io/princeton-scraper-cos-people/feeds/faculty/)
-- [`grad-students`](https://jlumbroso.github.io/princeton-scraper-cos-people/feeds/grad-students/)
-- [`research-instructors`](https://jlumbroso.github.io/princeton-scraper-cos-people/feeds/research-instructors/)
-- [`researchers`](https://jlumbroso.github.io/princeton-scraper-cos-people/feeds/researchers/)
-- [`technical-staff`](https://jlumbroso.github.io/princeton-scraper-cos-people/feeds/technical-staff/)
 
 For example using Python, you can use the `requests` package to
 get the JSON feed:
 
 ```python
 import requests
-r = requests.get("https://jlumbroso.github.io/princeton-scraper-cos-people/feeds/")
+r = requests.get("https://jlumbroso.github.io/princeton-scraper-cos-courses/feeds/")
 if r.ok:
     data = r.json()["data"]
 ```
@@ -45,41 +34,38 @@ the following fields:
 
 ```json
 {
-  "email": "lumbroso@cs.princeton.edu",
-  "office": "035 Corwin Hall",
-  "degree": "Ph.D., Universit\u00e9 Pierre et Marie Curie, 2012",
-  "title": "Lecturer",
-  "name": "J\u00e9r\u00e9mie Lumbroso",
-  "research-interests": "Probabilistic algorithms, data streaming, data structures, analysis of algorithms, analytic combinatorics.",
-  "profile-url": "https://www.cs.princeton.edu/people/profile/lumbroso",
-  "image-url": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id=2488&thumb=",
-  "image": "<base 64 encoded JPEG of the image>",
-  "netid": "lumbroso",
-  "first": "J\u00e9r\u00e9mie",
-  "last": "Lumbroso",
-  "type": "faculty"
+  "course": "COS 521",
+  "title": "Advanced Algorithm Design",
+  "people": ["M. Braverman", "M. Weinberg"],
+  "hours": "TTh 1:30-2:50",
+  "room": "",
+  "term": {
+    "year": 2021,
+    "period": "Fall",
+    "term": "Fall 2021",
+    "internal": "fall21",
+    "sortkey": "2021_1"
+  }
 }
 ```
 
-Other categories of people may have other fields, such as `leave`, `advisers`, `website`, etc.
+Some fields may not always be known (such as `room`).
 
 ## Backstory
 
-Previously, I had implemented [JSON feeds to programmatically obtain the faculty of
+Previously, I had implemented
+[JSON feeds to programmatically obtain the faculty of
 Princeton's School of Engineering and Applied Sciences](https://github.com/jlumbroso/princeton-scraper-seas-faculty/),
-to build the web portal for the BSE 2024 First Year Advising program.
+to build the web portal for the BSE 2024 First Year Advising program; and
+[JSON feeds to programmatically obtain the members of
+Princeton's Department of Computer Science](https://github.com/jlumbroso/princeton-scraper-seas-faculty/)
+to build an automated Slack management system for
+[our grad students' Slack](https://gradslack.cs.princeton.edu/),
+which I run.
 
-This time, I needed to access the directory information of the Department of Computer Science
-graduate students. Unfortunately, like for the SEAS faculty, there is no programmatically
-available data source that also contains important information such as photos; the only such
-source is the Department of Computer Science official website.
-
-Despite having had conversations with [@sckarlin](https://github.com/sckarlin) about not
-scraping the contents of the directory, it appeared that this was the easiest way to obtain
-up-to-date grad student information.
-
-The first application for this feed will be to configure and provision the Slack profiles of
-the CS grad student Slack.
+This time, [@adamfinkelstein](https://github.com/adamfinkelstein) and Matt Weinberg are
+building a matching system to match grad students to course TA-ships. The feed will help
+document the courses that are available and the faculty who are managing them.
 
 ## License
 
