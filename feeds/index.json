@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-courses/",
-  "timestamp": "2021-07-31T08:09:41.624803",
+  "timestamp": "2021-08-07T08:09:35.340271",
   "data": {
     "fall21": [
       {
@@ -45,7 +45,7 @@
           "S. Rusinkiewicz"
         ],
         "hours": "TTh 10:00-10:50",
-        "room": "",
+        "room": "FC101",
         "term": {
           "year": 2021,
           "period": "Fall",
@@ -62,7 +62,7 @@
           "D. Leyzberg"
         ],
         "hours": "TTh 11:00-12:20",
-        "room": "",
+        "room": "FC101",
         "term": {
           "year": 2021,
           "period": "Fall",
@@ -706,11 +706,11 @@
       },
       {
         "course": "COS 597I",
-        "title": "Advanced Topics in Computer Science: Advanced Compilers",
+        "title": "Advanced Topics in Computer Science: Social Computing",
         "people": [
           "D. August"
         ],
-        "hours": "TTh 3:00-4:20",
+        "hours": "TTh 10:00-11:20",
         "room": "",
         "term": {
           "year": 2021,
