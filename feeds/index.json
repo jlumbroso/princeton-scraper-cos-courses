@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-courses/",
-  "timestamp": "2021-08-07T08:09:35.340271",
+  "timestamp": "2021-08-14T08:10:01.153307",
   "data": {
     "fall21": [
       {
@@ -110,7 +110,7 @@
           ""
         ],
         "hours": "MW 12:30-1:20",
-        "room": "",
+        "room": "CS104",
         "term": {
           "year": 2021,
           "period": "Fall",
@@ -158,7 +158,7 @@
           "J. Singh"
         ],
         "hours": "MW 11:00-12:20",
-        "room": "",
+        "room": "CS104",
         "term": {
           "year": 2021,
           "period": "Fall",
@@ -191,7 +191,7 @@
           "D. Chen"
         ],
         "hours": "MW 1:30-2:50",
-        "room": "",
+        "room": "FC101",
         "term": {
           "year": 2021,
           "period": "Fall",
@@ -208,7 +208,7 @@
           "D. Walker"
         ],
         "hours": "MW 11:00-12:20",
-        "room": "",
+        "room": "MC46",
         "term": {
           "year": 2021,
           "period": "Fall",
@@ -224,7 +224,7 @@
           "R. Dondero"
         ],
         "hours": "TTh 1:30-2:50",
-        "room": "",
+        "room": "CS104",
         "term": {
           "year": 2021,
           "period": "Fall",
@@ -241,7 +241,7 @@
           "I. Petras"
         ],
         "hours": "MW 3:00-4:20",
-        "room": "",
+        "room": "CS104",
         "term": {
           "year": 2021,
           "period": "Fall",
@@ -257,7 +257,7 @@
           ""
         ],
         "hours": "TTh 3:00-4:20",
-        "room": "",
+        "room": "FC006",
         "term": {
           "year": 2021,
           "period": "Fall",
@@ -273,7 +273,7 @@
           "T. Griffiths"
         ],
         "hours": "MW 11:00-12:20",
-        "room": "",
+        "room": "JAA10",
         "term": {
           "year": 2021,
           "period": "Fall",
@@ -305,7 +305,7 @@
           ""
         ],
         "hours": "MW 11:00-12:20",
-        "room": "",
+        "room": "FC006",
         "term": {
           "year": 2021,
           "period": "Fall",
@@ -337,7 +337,7 @@
           "O. Russakovsky"
         ],
         "hours": "TTh 3:00-4:20",
-        "room": "",
+        "room": "CS104",
         "term": {
           "year": 2021,
           "period": "Fall",
@@ -353,7 +353,7 @@
           "A. Narayanan"
         ],
         "hours": "TTh 11:00-12:20",
-        "room": "",
+        "room": "CS104",
         "term": {
           "year": 2021,
           "period": "Fall",
@@ -369,7 +369,7 @@
           ""
         ],
         "hours": "MWF 9:00-9:50",
-        "room": "",
+        "room": "EQD221",
         "term": {
           "year": 2021,
           "period": "Fall",
@@ -451,7 +451,7 @@
           "G. Kol"
         ],
         "hours": "TTh 3:00-4:20",
-        "room": "",
+        "room": "BH222",
         "term": {
           "year": 2021,
           "period": "Fall",
@@ -532,7 +532,7 @@
           "M. Weinberg"
         ],
         "hours": "TTh 1:30-2:50",
-        "room": "",
+        "room": "TL003",
         "term": {
           "year": 2021,
           "period": "Fall",
