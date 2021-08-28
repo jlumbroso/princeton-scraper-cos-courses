@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-courses/",
-  "timestamp": "2021-08-21T08:09:40.520869",
+  "timestamp": "2021-08-28T08:08:48.604172",
   "data": {
     "fall21": [
       {
@@ -24,6 +24,7 @@
         "title": "Computer Science: An Interdisciplinary Approach",
         "people": [
           "M. Singh",
+          "R. Fong",
           "A. Kaplan",
           "J. Lumbroso"
         ],
@@ -498,7 +499,7 @@
           "A. Dieng"
         ],
         "hours": "MW 3:00-4:20",
-        "room": "FC008",
+        "room": "",
         "term": {
           "year": 2021,
           "period": "Fall",
@@ -646,7 +647,7 @@
           "T. Griffiths"
         ],
         "hours": "W 2:00-3:00",
-        "room": "CS302",
+        "room": "RH023",
         "term": {
           "year": 2021,
           "period": "Fall",
@@ -678,7 +679,7 @@
           "Y. Pritykin"
         ],
         "hours": "W 9:30-12:20",
-        "room": "CS105",
+        "room": "IL200",
         "term": {
           "year": 2021,
           "period": "Fall",
@@ -711,6 +712,22 @@
         ],
         "hours": "TTh 10:00-11:20",
         "room": "CS302",
+        "term": {
+          "year": 2021,
+          "period": "Fall",
+          "term": "Fall 2021",
+          "internal": "fall21",
+          "sortkey": "2021_1"
+        }
+      },
+      {
+        "course": "COS 597J",
+        "title": "Advanced Topics in Computer Science: Computer Science for Public Policy and Law",
+        "people": [
+          ""
+        ],
+        "hours": "TTh 10:40-12:00",
+        "room": "",
         "term": {
           "year": 2021,
           "period": "Fall",
