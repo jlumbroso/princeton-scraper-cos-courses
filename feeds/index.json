@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-courses/",
-  "timestamp": "2021-08-28T08:08:48.604172",
+  "timestamp": "2021-09-04T08:09:46.656049",
   "data": {
     "fall21": [
       {
@@ -29,7 +29,7 @@
           "J. Lumbroso"
         ],
         "hours": "MW 12:30-1:20",
-        "room": "",
+        "room": "MC50",
         "term": {
           "year": 2021,
           "period": "Fall",
@@ -78,7 +78,7 @@
           ""
         ],
         "hours": "MWF 10:00-10:50",
-        "room": "TL012",
+        "room": "IL101",
         "term": {
           "year": 2021,
           "period": "Fall",
@@ -94,7 +94,7 @@
           ""
         ],
         "hours": "TTh 10:00-10:50",
-        "room": "IL200",
+        "room": "IL101",
         "term": {
           "year": 2021,
           "period": "Fall",
@@ -126,7 +126,7 @@
           ""
         ],
         "hours": "TTh 1:30-2:50",
-        "room": "",
+        "room": "FC101",
         "term": {
           "year": 2021,
           "period": "Fall",
@@ -385,7 +385,7 @@
           "B. Chazelle"
         ],
         "hours": "MW 1:30-2:50",
-        "room": "CS105",
+        "room": "RH016",
         "term": {
           "year": 2021,
           "period": "Fall",
@@ -548,7 +548,7 @@
           "F. Heide"
         ],
         "hours": "TTh 3:00-4:20",
-        "room": "CS302",
+        "room": "FC008",
         "term": {
           "year": 2021,
           "period": "Fall",
@@ -598,7 +598,7 @@
           "R. Netravali"
         ],
         "hours": "T 10:00-10:50",
-        "room": "CS105",
+        "room": "CS104",
         "term": {
           "year": 2021,
           "period": "Fall",
@@ -663,7 +663,7 @@
           "J. Mayer"
         ],
         "hours": "MW 3:00-4:20",
-        "room": "CS302",
+        "room": "FC111",
         "term": {
           "year": 2021,
           "period": "Fall",
@@ -711,7 +711,7 @@
           "D. August"
         ],
         "hours": "TTh 10:00-11:20",
-        "room": "CS302",
+        "room": "FC016",
         "term": {
           "year": 2021,
           "period": "Fall",
@@ -722,11 +722,11 @@
       },
       {
         "course": "COS 597J",
-        "title": "Advanced Topics in Computer Science: Computer Science for Public Policy and Law",
+        "title": "Advanced Topics in Computer Science: Streaming and Sketching Algorithms",
         "people": [
-          ""
+          "H. Yu"
         ],
-        "hours": "TTh 10:40-12:00",
+        "hours": "TTh 3:00-4:20",
         "room": "",
         "term": {
           "year": 2021,
