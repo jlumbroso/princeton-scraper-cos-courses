@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-courses/",
-  "timestamp": "2021-09-04T08:09:46.656049",
+  "timestamp": "2021-09-11T08:10:06.025578",
   "data": {
     "fall21": [
       {
@@ -727,7 +727,7 @@
           "H. Yu"
         ],
         "hours": "TTh 3:00-4:20",
-        "room": "",
+        "room": "RH005",
         "term": {
           "year": 2021,
           "period": "Fall",
