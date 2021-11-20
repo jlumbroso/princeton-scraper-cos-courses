@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-courses/",
-  "timestamp": "2021-11-13T08:09:24.728079",
+  "timestamp": "2021-11-20T08:09:52.462270",
   "data": {
     "spring22": [
       {
@@ -460,6 +460,22 @@
           "E. Hazan"
         ],
         "hours": "W 1:30-4:20",
+        "room": "",
+        "term": {
+          "year": 2022,
+          "period": "Spring",
+          "term": "Spring 2022",
+          "internal": "spring22",
+          "sortkey": "2022_0"
+        }
+      },
+      {
+        "course": "COS 513",
+        "title": "Foundations of Probabilistic Modeling",
+        "people": [
+          "A. Dieng"
+        ],
+        "hours": "MW 3:00-4:20",
         "room": "",
         "term": {
           "year": 2022,
