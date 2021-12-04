@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-courses/",
-  "timestamp": "2021-11-27T08:10:11.590923",
+  "timestamp": "2021-12-04T08:08:34.766385",
   "data": {
     "spring22": [
       {
@@ -424,7 +424,8 @@
         "course": "COS 495",
         "title": "Special Topics in Computer Science: Web3: Blockchains, Cryptocurrencies, and Decentralization",
         "people": [
-          "S. Wang"
+          "J. Singh",
+          "R. Fish"
         ],
         "hours": "W 1:30-4:20",
         "room": "",
@@ -539,7 +540,55 @@
         "people": [
           "J. Mayer"
         ],
-        "hours": "",
+        "hours": "W 1:30-4:30",
+        "room": "",
+        "term": {
+          "year": 2022,
+          "period": "Spring",
+          "term": "Spring 2022",
+          "internal": "spring22",
+          "sortkey": "2022_0"
+        }
+      },
+      {
+        "course": "COS 598A",
+        "title": "Advanced Topics in Computer Science: Operating System Trade-Offs: Performance, Extensibility, and Security",
+        "people": [
+          ""
+        ],
+        "hours": "TTh 1:30-2:50",
+        "room": "",
+        "term": {
+          "year": 2022,
+          "period": "Spring",
+          "term": "Spring 2022",
+          "internal": "spring22",
+          "sortkey": "2022_0"
+        }
+      },
+      {
+        "course": "COS 598B",
+        "title": "Advanced Topics in Computer Science: Mathematical Understanding of Deep Learning",
+        "people": [
+          ""
+        ],
+        "hours": "TTh 1:30-2:50",
+        "room": "",
+        "term": {
+          "year": 2022,
+          "period": "Spring",
+          "term": "Spring 2022",
+          "internal": "spring22",
+          "sortkey": "2022_0"
+        }
+      },
+      {
+        "course": "COS 598D",
+        "title": "Advanced Topics in Computer Science: Systems and Machine Learning",
+        "people": [
+          ""
+        ],
+        "hours": "TTh 9:30-10:50",
         "room": "",
         "term": {
           "year": 2022,
