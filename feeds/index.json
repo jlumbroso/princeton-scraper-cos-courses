@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-courses/",
-  "timestamp": "2021-12-04T08:08:34.766385",
+  "timestamp": "2021-12-11T08:08:59.287458",
   "data": {
     "spring22": [
       {
@@ -460,7 +460,7 @@
         "people": [
           "E. Hazan"
         ],
-        "hours": "W 1:30-4:20",
+        "hours": "W 9:00-12:00",
         "room": "",
         "term": {
           "year": 2022,
@@ -524,7 +524,7 @@
         "people": [
           "R. Raz"
         ],
-        "hours": "W 1:30-4:20",
+        "hours": "F 1:30-4:20",
         "room": "",
         "term": {
           "year": 2022,
@@ -552,12 +552,12 @@
       },
       {
         "course": "COS 598A",
-        "title": "Advanced Topics in Computer Science: Operating System Trade-Offs: Performance, Extensibility, and Security",
+        "title": "Advanced Topics in Computer Science:  Machine Learning (ML)-Driven Video Systems",
         "people": [
-          ""
+          "R. Netravali"
         ],
-        "hours": "TTh 1:30-2:50",
-        "room": "",
+        "hours": "MW 9:30-10:50",
+        "room": "CS302",
         "term": {
           "year": 2022,
           "period": "Spring",
@@ -570,9 +570,9 @@
         "course": "COS 598B",
         "title": "Advanced Topics in Computer Science: Mathematical Understanding of Deep Learning",
         "people": [
-          ""
+          "S. Arora"
         ],
-        "hours": "TTh 1:30-2:50",
+        "hours": "MW 1:30-2:50",
         "room": "",
         "term": {
           "year": 2022,
@@ -586,10 +586,10 @@
         "course": "COS 598D",
         "title": "Advanced Topics in Computer Science: Systems and Machine Learning",
         "people": [
-          ""
+          "K. Li"
         ],
         "hours": "TTh 9:30-10:50",
-        "room": "",
+        "room": "CS302",
         "term": {
           "year": 2022,
           "period": "Spring",
