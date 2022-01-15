@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-courses/",
-  "timestamp": "2022-01-08T08:09:01.224344",
+  "timestamp": "2022-01-15T08:09:53.144249",
   "data": {
     "spring22": [
       {
@@ -12,7 +12,7 @@
           "A. Kaplan"
         ],
         "hours": "Th 3:00-4:20",
-        "room": "",
+        "room": "MC50",
         "term": {
           "year": 2022,
           "period": "Spring",
@@ -30,7 +30,7 @@
           "C. Moretti"
         ],
         "hours": "MW 10:00-10:50",
-        "room": "",
+        "room": "CS104",
         "term": {
           "year": 2022,
           "period": "Spring",
@@ -47,7 +47,7 @@
           "D. Leyzberg"
         ],
         "hours": "TTh 11:00-12:20",
-        "room": "",
+        "room": "FC101",
         "term": {
           "year": 2022,
           "period": "Spring",
@@ -102,7 +102,7 @@
           "I. Petras"
         ],
         "hours": "MW 3:00-4:20",
-        "room": "",
+        "room": "CS104",
         "term": {
           "year": 2022,
           "period": "Spring",
@@ -135,7 +135,7 @@
           "A. Levy"
         ],
         "hours": "TTh 10:00-10:50",
-        "room": "",
+        "room": "CS104",
         "term": {
           "year": 2022,
           "period": "Spring",
@@ -184,7 +184,7 @@
           "J. Deng"
         ],
         "hours": "MW 1:30-2:50",
-        "room": "",
+        "room": "FC101",
         "term": {
           "year": 2022,
           "period": "Spring",
@@ -200,7 +200,7 @@
           "R. Dondero"
         ],
         "hours": "TTh 3:00-4:20",
-        "room": "",
+        "room": "CS104",
         "term": {
           "year": 2022,
           "period": "Spring",
@@ -248,7 +248,7 @@
           "K. Jamieson",
           "R. Fish"
         ],
-        "hours": "",
+        "hours": "F 1:30-2:50",
         "room": "",
         "term": {
           "year": 2022,
@@ -265,7 +265,7 @@
           ""
         ],
         "hours": "F 1:30-4:20",
-        "room": "",
+        "room": "GN0-S-9",
         "term": {
           "year": 2022,
           "period": "Spring",
@@ -313,7 +313,7 @@
           "F. Heide"
         ],
         "hours": "TTh 3:00-4:20",
-        "room": "",
+        "room": "RH100",
         "term": {
           "year": 2022,
           "period": "Spring",
@@ -329,7 +329,7 @@
           "P. Mittal"
         ],
         "hours": "TTh 11:00-12:20",
-        "room": "",
+        "room": "MC46",
         "term": {
           "year": 2022,
           "period": "Spring",
@@ -346,7 +346,7 @@
           "M. Weinberg"
         ],
         "hours": "TTh 1:30-2:50",
-        "room": "",
+        "room": "FC101",
         "term": {
           "year": 2022,
           "period": "Spring",
@@ -379,7 +379,7 @@
           ""
         ],
         "hours": "F 7:30-10:20",
-        "room": "",
+        "room": "EQF112",
         "term": {
           "year": 2022,
           "period": "Spring",
@@ -395,7 +395,7 @@
           "K. Narasimhan"
         ],
         "hours": "TTh 9:30-10:50",
-        "room": "",
+        "room": "FC101",
         "term": {
           "year": 2022,
           "period": "Spring",
@@ -444,7 +444,7 @@
           "K. Jamieson",
           "R. Fish"
         ],
-        "hours": "",
+        "hours": "F 1:30-2:50",
         "room": "",
         "term": {
           "year": 2022,
@@ -542,6 +542,22 @@
         ],
         "hours": "W 1:30-4:30",
         "room": "RH020",
+        "term": {
+          "year": 2022,
+          "period": "Spring",
+          "term": "Spring 2022",
+          "internal": "spring22",
+          "sortkey": "2022_0"
+        }
+      },
+      {
+        "course": "COS 590",
+        "title": "Extramural Research Internship",
+        "people": [
+          "B. Raphael"
+        ],
+        "hours": "",
+        "room": "",
         "term": {
           "year": 2022,
           "period": "Spring",
