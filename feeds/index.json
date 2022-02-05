@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-courses/",
-  "timestamp": "2022-01-29T08:09:14.887622",
+  "timestamp": "2022-02-05T08:13:05.694472",
   "data": {
     "spring22": [
       {
@@ -461,7 +461,7 @@
           "E. Hazan"
         ],
         "hours": "W 9:00-12:00",
-        "room": "MC10",
+        "room": "RH023",
         "term": {
           "year": 2022,
           "period": "Spring",
