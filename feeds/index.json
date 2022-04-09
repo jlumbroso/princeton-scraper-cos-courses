@@ -1,7 +1,744 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-courses/",
-  "timestamp": "2022-04-02T08:10:46.334885",
+  "timestamp": "2022-04-09T08:09:11.938502",
   "data": {
+    "fall22": [
+      {
+        "course": "COS 109",
+        "title": "Computers in Our World",
+        "people": [
+          "B. Kernighan"
+        ],
+        "hours": "MW 1:30-2:50",
+        "room": "",
+        "term": {
+          "year": 2022,
+          "period": "Fall",
+          "term": "Fall 2022",
+          "internal": "fall22",
+          "sortkey": "2022_1"
+        }
+      },
+      {
+        "course": "COS 126",
+        "title": "Computer Science: An Interdisciplinary Approach",
+        "people": [
+          "K. Wayne",
+          "R. Fong",
+          "A. Kaplan"
+        ],
+        "hours": "Th 3:00-4:20",
+        "room": "",
+        "term": {
+          "year": 2022,
+          "period": "Fall",
+          "term": "Fall 2022",
+          "internal": "fall22",
+          "sortkey": "2022_1"
+        }
+      },
+      {
+        "course": "COS 217",
+        "title": "Introduction to Programming Systems",
+        "people": [
+          "C. Moretti"
+        ],
+        "hours": "MW 10:00-10:50",
+        "room": "",
+        "term": {
+          "year": 2022,
+          "period": "Fall",
+          "term": "Fall 2022",
+          "internal": "fall22",
+          "sortkey": "2022_1"
+        }
+      },
+      {
+        "course": "COS 226",
+        "title": "Algorithms and Data Structures",
+        "people": [
+          "G. Kol",
+          "D. Leyzberg"
+        ],
+        "hours": "TTh 11:00-12:20",
+        "room": "",
+        "term": {
+          "year": 2022,
+          "period": "Fall",
+          "term": "Fall 2022",
+          "internal": "fall22",
+          "sortkey": "2022_1"
+        }
+      },
+      {
+        "course": "COS 231",
+        "title": "An Integrated, Quantitative Introduction to the Natural Sciences I (See ISC231)",
+        "people": [
+          ""
+        ],
+        "hours": "M 1:30-4:20",
+        "room": "",
+        "term": {
+          "year": 2022,
+          "period": "Fall",
+          "term": "Fall 2022",
+          "internal": "fall22",
+          "sortkey": "2022_1"
+        }
+      },
+      {
+        "course": "COS 232",
+        "title": "An Integrated, Quantitative Introduction to the Natural Sciences I (See ISC232)",
+        "people": [
+          ""
+        ],
+        "hours": "W 1:30-4:20",
+        "room": "",
+        "term": {
+          "year": 2022,
+          "period": "Fall",
+          "term": "Fall 2022",
+          "internal": "fall22",
+          "sortkey": "2022_1"
+        }
+      },
+      {
+        "course": "COS 240",
+        "title": "Reasoning About Computation",
+        "people": [
+          "R. Raz",
+          "I. Petras"
+        ],
+        "hours": "MW 3:00-4:20",
+        "room": "",
+        "term": {
+          "year": 2022,
+          "period": "Fall",
+          "term": "Fall 2022",
+          "internal": "fall22",
+          "sortkey": "2022_1"
+        }
+      },
+      {
+        "course": "COS 302",
+        "title": "Mathematics for Numerical Computing and Machine Learning",
+        "people": [
+          "R. Adams"
+        ],
+        "hours": "MW 12:30-1:20",
+        "room": "",
+        "term": {
+          "year": 2022,
+          "period": "Fall",
+          "term": "Fall 2022",
+          "internal": "fall22",
+          "sortkey": "2022_1"
+        }
+      },
+      {
+        "course": "COS 306",
+        "title": "Contemporary Logic Design (See ECE206)",
+        "people": [
+          ""
+        ],
+        "hours": "M 7:30-10:20",
+        "room": "",
+        "term": {
+          "year": 2022,
+          "period": "Fall",
+          "term": "Fall 2022",
+          "internal": "fall22",
+          "sortkey": "2022_1"
+        }
+      },
+      {
+        "course": "COS 314",
+        "title": "Computer and Electronic Music through Programming, Performance, and Composition (See MUS314)",
+        "people": [
+          ""
+        ],
+        "hours": "T 1:30-4:20",
+        "room": "",
+        "term": {
+          "year": 2022,
+          "period": "Fall",
+          "term": "Fall 2022",
+          "internal": "fall22",
+          "sortkey": "2022_1"
+        }
+      },
+      {
+        "course": "COS 316",
+        "title": "Principles of Computer System Design",
+        "people": [
+          "A. Levy",
+          "R. Netravali"
+        ],
+        "hours": "TTh 10:00-10:50",
+        "room": "",
+        "term": {
+          "year": 2022,
+          "period": "Fall",
+          "term": "Fall 2022",
+          "internal": "fall22",
+          "sortkey": "2022_1"
+        }
+      },
+      {
+        "course": "COS 323",
+        "title": "Computing and Optimization for the Physical and Social Sciences (See ORF363)",
+        "people": [
+          ""
+        ],
+        "hours": "MW 11:00-12:20",
+        "room": "",
+        "term": {
+          "year": 2022,
+          "period": "Fall",
+          "term": "Fall 2022",
+          "internal": "fall22",
+          "sortkey": "2022_1"
+        }
+      },
+      {
+        "course": "COS 324",
+        "title": "Introduction to Machine Learning",
+        "people": [
+          "K. Narasimhan",
+          "R. Fong"
+        ],
+        "hours": "TTh 11:00-12:20",
+        "room": "",
+        "term": {
+          "year": 2022,
+          "period": "Fall",
+          "term": "Fall 2022",
+          "internal": "fall22",
+          "sortkey": "2022_1"
+        }
+      },
+      {
+        "course": "COS 326",
+        "title": "Functional Programming",
+        "people": [
+          "A. Appel"
+        ],
+        "hours": "MW 10:00-10:50",
+        "room": "",
+        "term": {
+          "year": 2022,
+          "period": "Fall",
+          "term": "Fall 2022",
+          "internal": "fall22",
+          "sortkey": "2022_1"
+        }
+      },
+      {
+        "course": "COS 333",
+        "title": "Advanced Programming Techniques",
+        "people": [
+          "D. Walker",
+          "R. Dondero"
+        ],
+        "hours": "TTh 3:00-4:20",
+        "room": "",
+        "term": {
+          "year": 2022,
+          "period": "Fall",
+          "term": "Fall 2022",
+          "internal": "fall22",
+          "sortkey": "2022_1"
+        }
+      },
+      {
+        "course": "COS 346",
+        "title": "Introduction to Robotics (See MAE345)",
+        "people": [
+          ""
+        ],
+        "hours": "TTh 3:00-4:20",
+        "room": "",
+        "term": {
+          "year": 2022,
+          "period": "Fall",
+          "term": "Fall 2022",
+          "internal": "fall22",
+          "sortkey": "2022_1"
+        }
+      },
+      {
+        "course": "COS 360",
+        "title": "Computational Models of Cognition (See PSY360)",
+        "people": [
+          "T. Griffiths"
+        ],
+        "hours": "MW 11:00-12:20",
+        "room": "",
+        "term": {
+          "year": 2022,
+          "period": "Fall",
+          "term": "Fall 2022",
+          "internal": "fall22",
+          "sortkey": "2022_1"
+        }
+      },
+      {
+        "course": "COS 375",
+        "title": "Computer Architecture and Organization",
+        "people": [
+          "D. August"
+        ],
+        "hours": "TTh 1:30-2:50",
+        "room": "",
+        "term": {
+          "year": 2022,
+          "period": "Fall",
+          "term": "Fall 2022",
+          "internal": "fall22",
+          "sortkey": "2022_1"
+        }
+      },
+      {
+        "course": "COS 396",
+        "title": "Introduction to Quantum Computing (See ECE396)",
+        "people": [
+          ""
+        ],
+        "hours": "MW 11:00-12:20",
+        "room": "",
+        "term": {
+          "year": 2022,
+          "period": "Fall",
+          "term": "Fall 2022",
+          "internal": "fall22",
+          "sortkey": "2022_1"
+        }
+      },
+      {
+        "course": "COS 397",
+        "title": "Junior Independent Work (B.S.E. candidates only)",
+        "people": [
+          "K. Jamieson",
+          "R. Fish"
+        ],
+        "hours": "",
+        "room": "",
+        "term": {
+          "year": 2022,
+          "period": "Fall",
+          "term": "Fall 2022",
+          "internal": "fall22",
+          "sortkey": "2022_1"
+        }
+      },
+      {
+        "course": "COS 418",
+        "title": "Distributed Systems",
+        "people": [
+          "W. Lloyd"
+        ],
+        "hours": "MW 10:00-10:50",
+        "room": "",
+        "term": {
+          "year": 2022,
+          "period": "Fall",
+          "term": "Fall 2022",
+          "internal": "fall22",
+          "sortkey": "2022_1"
+        }
+      },
+      {
+        "course": "COS 423",
+        "title": "Theory of Algorithms",
+        "people": [
+          "R. Tarjan"
+        ],
+        "hours": "MW 11:00-12:20",
+        "room": "",
+        "term": {
+          "year": 2022,
+          "period": "Fall",
+          "term": "Fall 2022",
+          "internal": "fall22",
+          "sortkey": "2022_1"
+        }
+      },
+      {
+        "course": "COS 426",
+        "title": "Computer Graphics",
+        "people": [
+          "S. Rusinkiewicz"
+        ],
+        "hours": "TTh 3:00-4:20",
+        "room": "",
+        "term": {
+          "year": 2022,
+          "period": "Fall",
+          "term": "Fall 2022",
+          "internal": "fall22",
+          "sortkey": "2022_1"
+        }
+      },
+      {
+        "course": "COS 432",
+        "title": "Information Security",
+        "people": [
+          "P. Mittal"
+        ],
+        "hours": "TTh 11:00-12:20",
+        "room": "",
+        "term": {
+          "year": 2022,
+          "period": "Fall",
+          "term": "Fall 2022",
+          "internal": "fall22",
+          "sortkey": "2022_1"
+        }
+      },
+      {
+        "course": "COS 448",
+        "title": "Innovating Across Technology, Business, and Marketplaces",
+        "people": [
+          "J. Singh"
+        ],
+        "hours": "MW 11:00-12:20",
+        "room": "",
+        "term": {
+          "year": 2022,
+          "period": "Fall",
+          "term": "Fall 2022",
+          "internal": "fall22",
+          "sortkey": "2022_1"
+        }
+      },
+      {
+        "course": "COS 451",
+        "title": "Computational Geometry",
+        "people": [
+          "B. Chazelle"
+        ],
+        "hours": "MW 1:30-2:50",
+        "room": "",
+        "term": {
+          "year": 2022,
+          "period": "Fall",
+          "term": "Fall 2022",
+          "internal": "fall22",
+          "sortkey": "2022_1"
+        }
+      },
+      {
+        "course": "COS 454",
+        "title": "Probabilistic Models of Cognition (See PSY454)",
+        "people": [
+          "T. Griffiths"
+        ],
+        "hours": "TTh 11:00-12:20",
+        "room": "",
+        "term": {
+          "year": 2022,
+          "period": "Fall",
+          "term": "Fall 2022",
+          "internal": "fall22",
+          "sortkey": "2022_1"
+        }
+      },
+      {
+        "course": "COS 455",
+        "title": "Introduction to Genomics and Computational Molecular Biology (See QCB455)",
+        "people": [
+          "M. Singh",
+          "J. Akey",
+          "C. McWhite"
+        ],
+        "hours": "TTh 11:00-12:20",
+        "room": "",
+        "term": {
+          "year": 2022,
+          "period": "Fall",
+          "term": "Fall 2022",
+          "internal": "fall22",
+          "sortkey": "2022_1"
+        }
+      },
+      {
+        "course": "COS 462",
+        "title": "Design of Very Large-Scale Integrated (VLSI) Systems (See ECE462)",
+        "people": [
+          ""
+        ],
+        "hours": "TTh 11:00-12:20",
+        "room": "",
+        "term": {
+          "year": 2022,
+          "period": "Fall",
+          "term": "Fall 2022",
+          "internal": "fall22",
+          "sortkey": "2022_1"
+        }
+      },
+      {
+        "course": "COS 470",
+        "title": "Principles of Blockchains (See ECE470)",
+        "people": [
+          ""
+        ],
+        "hours": "MW 3:00-4:20",
+        "room": "",
+        "term": {
+          "year": 2022,
+          "period": "Fall",
+          "term": "Fall 2022",
+          "internal": "fall22",
+          "sortkey": "2022_1"
+        }
+      },
+      {
+        "course": "COS 497",
+        "title": "Senior Independent Work (B.S.E. candidates only)",
+        "people": [
+          "K. Jamieson",
+          "R. Fish"
+        ],
+        "hours": "",
+        "room": "",
+        "term": {
+          "year": 2022,
+          "period": "Fall",
+          "term": "Fall 2022",
+          "internal": "fall22",
+          "sortkey": "2022_1"
+        }
+      },
+      {
+        "course": "COS 512",
+        "title": "Special Topics in Data and Information Science: Safety-Critical Robotic Systems (See ECE539)",
+        "people": [
+          ""
+        ],
+        "hours": "MW 1:30-2:50",
+        "room": "",
+        "term": {
+          "year": 2022,
+          "period": "Fall",
+          "term": "Fall 2022",
+          "internal": "fall22",
+          "sortkey": "2022_1"
+        }
+      },
+      {
+        "course": "COS 516",
+        "title": "Automated Reasoning about Software",
+        "people": [
+          "Z. Kincaid"
+        ],
+        "hours": "MW 11:00-12:20",
+        "room": "",
+        "term": {
+          "year": 2022,
+          "period": "Fall",
+          "term": "Fall 2022",
+          "internal": "fall22",
+          "sortkey": "2022_1"
+        }
+      },
+      {
+        "course": "COS 518",
+        "title": "Advanced Computer Systems",
+        "people": [
+          "W. Lloyd"
+        ],
+        "hours": "MW 10:00-10:50",
+        "room": "",
+        "term": {
+          "year": 2022,
+          "period": "Fall",
+          "term": "Fall 2022",
+          "internal": "fall22",
+          "sortkey": "2022_1"
+        }
+      },
+      {
+        "course": "COS 521",
+        "title": "Advanced Algorithm Design",
+        "people": [
+          "M. Weinberg",
+          "H. Yu"
+        ],
+        "hours": "TTh 1:30-2:50",
+        "room": "",
+        "term": {
+          "year": 2022,
+          "period": "Fall",
+          "term": "Fall 2022",
+          "internal": "fall22",
+          "sortkey": "2022_1"
+        }
+      },
+      {
+        "course": "COS 529",
+        "title": "Advanced Computer Vision",
+        "people": [
+          "J. Deng"
+        ],
+        "hours": "MW 1:30-2:50",
+        "room": "",
+        "term": {
+          "year": 2022,
+          "period": "Fall",
+          "term": "Fall 2022",
+          "internal": "fall22",
+          "sortkey": "2022_1"
+        }
+      },
+      {
+        "course": "COS 551",
+        "title": "Introduction to Genomics and Computational Molecular Biology",
+        "people": [
+          "M. Singh",
+          "J. Akey",
+          "C. McWhite"
+        ],
+        "hours": "TTh 11:00-12:20",
+        "room": "",
+        "term": {
+          "year": 2022,
+          "period": "Fall",
+          "term": "Fall 2022",
+          "internal": "fall22",
+          "sortkey": "2022_1"
+        }
+      },
+      {
+        "course": "COS 586",
+        "title": "Topics in STEP: Technology Policy and Law (See SPI586F)",
+        "people": [
+          "J. Mayer"
+        ],
+        "hours": "M 1:30-4:30",
+        "room": "",
+        "term": {
+          "year": 2022,
+          "period": "Fall",
+          "term": "Fall 2022",
+          "internal": "fall22",
+          "sortkey": "2022_1"
+        }
+      },
+      {
+        "course": "COS 590",
+        "title": "Extramural Research Internship",
+        "people": [
+          "K. Jamieson"
+        ],
+        "hours": "",
+        "room": "",
+        "term": {
+          "year": 2022,
+          "period": "Fall",
+          "term": "Fall 2022",
+          "internal": "fall22",
+          "sortkey": "2022_1"
+        }
+      },
+      {
+        "course": "COS 597A",
+        "title": "Advanced Topics in Computer Science: Algorithmic Mechanism Design for Cryptocurrencies and DeFi",
+        "people": [
+          "M. Braverman",
+          "M. Weinberg"
+        ],
+        "hours": "MW 1:30-2:50",
+        "room": "",
+        "term": {
+          "year": 2022,
+          "period": "Fall",
+          "term": "Fall 2022",
+          "internal": "fall22",
+          "sortkey": "2022_1"
+        }
+      },
+      {
+        "course": "COS 597B",
+        "title": "Advanced Topics in Computer Science: Recent Advances in Computer Vision",
+        "people": [
+          "O. Russakovsky"
+        ],
+        "hours": "MW 3:00-4:20",
+        "room": "",
+        "term": {
+          "year": 2022,
+          "period": "Fall",
+          "term": "Fall 2022",
+          "internal": "fall22",
+          "sortkey": "2022_1"
+        }
+      },
+      {
+        "course": "COS 597C",
+        "title": "Advanced Topics in Computer Science: Machine Learning for Health Care",
+        "people": [
+          "B. Engelhardt"
+        ],
+        "hours": "MW 11:00-12:20",
+        "room": "",
+        "term": {
+          "year": 2022,
+          "period": "Fall",
+          "term": "Fall 2022",
+          "internal": "fall22",
+          "sortkey": "2022_1"
+        }
+      },
+      {
+        "course": "COS 597D",
+        "title": "Advanced Topics in Computer Science: Computational Methods for Single-cell and Spatial Biology",
+        "people": [
+          "B. Raphael"
+        ],
+        "hours": "F 10:00-12:20",
+        "room": "",
+        "term": {
+          "year": 2022,
+          "period": "Fall",
+          "term": "Fall 2022",
+          "internal": "fall22",
+          "sortkey": "2022_1"
+        }
+      },
+      {
+        "course": "COS 597E",
+        "title": "Advanced Topics in Computer Science: Verification and Synthesis",
+        "people": [
+          "A. Gupta"
+        ],
+        "hours": "MW 3:00-4:20",
+        "room": "",
+        "term": {
+          "year": 2022,
+          "period": "Fall",
+          "term": "Fall 2022",
+          "internal": "fall22",
+          "sortkey": "2022_1"
+        }
+      },
+      {
+        "course": "COS 597G",
+        "title": "Advanced Topics in Computer Science: Understanding Large Language Models",
+        "people": [
+          "D. Chen"
+        ],
+        "hours": "MW 10:30-11:50",
+        "room": "",
+        "term": {
+          "year": 2022,
+          "period": "Fall",
+          "term": "Fall 2022",
+          "internal": "fall22",
+          "sortkey": "2022_1"
+        }
+      }
+    ],
     "spring22": [
       {
         "course": "COS 126",
