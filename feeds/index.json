@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-courses/",
-  "timestamp": "2022-04-16T08:09:09.725635",
+  "timestamp": "2022-04-23T08:12:28.731098",
   "data": {
     "fall22": [
       {
@@ -527,6 +527,22 @@
         }
       },
       {
+        "course": "COS 513",
+        "title": "Foundations of Probabilistic Modeling",
+        "people": [
+          "A. Dieng"
+        ],
+        "hours": "MW 3:00-4:20",
+        "room": "",
+        "term": {
+          "year": 2022,
+          "period": "Fall",
+          "term": "Fall 2022",
+          "internal": "fall22",
+          "sortkey": "2022_1"
+        }
+      },
+      {
         "course": "COS 516",
         "title": "Automated Reasoning about Software",
         "people": [
@@ -615,7 +631,7 @@
         "people": [
           "J. Mayer"
         ],
-        "hours": "M 1:30-4:30",
+        "hours": "",
         "room": "",
         "term": {
           "year": 2022,
