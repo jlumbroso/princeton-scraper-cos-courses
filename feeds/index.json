@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-courses/",
-  "timestamp": "2022-07-16T08:08:55.152876",
+  "timestamp": "2022-07-23T08:09:11.622042",
   "data": {
     "fall22": [
       {
@@ -511,6 +511,22 @@
         }
       },
       {
+        "course": "COS 511",
+        "title": "Theoretical Machine Learning",
+        "people": [
+          "E. Hazan"
+        ],
+        "hours": "TTh 11:00-12:20",
+        "room": "",
+        "term": {
+          "year": 2022,
+          "period": "Fall",
+          "term": "Fall 2022",
+          "internal": "fall22",
+          "sortkey": "2022_1"
+        }
+      },
+      {
         "course": "COS 512",
         "title": "Special Topics in Data and Information Science: Safety-Critical Robotic Systems (See ECE539)",
         "people": [
@@ -615,7 +631,7 @@
         "people": [
           "J. Mayer"
         ],
-        "hours": "",
+        "hours": "W 1:00-4:00",
         "room": "",
         "term": {
           "year": 2022,
