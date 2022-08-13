@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-courses/",
-  "timestamp": "2022-08-06T08:08:55.436731",
+  "timestamp": "2022-08-13T08:10:00.576091",
   "data": {
     "fall22": [
       {
@@ -61,7 +61,7 @@
           "D. Leyzberg"
         ],
         "hours": "TTh 11:00-12:20",
-        "room": "",
+        "room": "FC101",
         "term": {
           "year": 2022,
           "period": "Fall",
@@ -93,7 +93,7 @@
           ""
         ],
         "hours": "W 1:30-4:20",
-        "room": "",
+        "room": "IL200",
         "term": {
           "year": 2022,
           "period": "Fall",
@@ -110,7 +110,7 @@
           "I. Petras"
         ],
         "hours": "MW 3:00-4:20",
-        "room": "",
+        "room": "CS104",
         "term": {
           "year": 2022,
           "period": "Fall",
@@ -175,7 +175,7 @@
           "R. Netravali"
         ],
         "hours": "TTh 10:00-10:50",
-        "room": "",
+        "room": "CS104",
         "term": {
           "year": 2022,
           "period": "Fall",
@@ -257,22 +257,6 @@
           ""
         ],
         "hours": "TTh 3:00-4:20",
-        "room": "",
-        "term": {
-          "year": 2022,
-          "period": "Fall",
-          "term": "Fall 2022",
-          "internal": "fall22",
-          "sortkey": "2022_1"
-        }
-      },
-      {
-        "course": "COS 360",
-        "title": "Computational Models of Cognition (See PSY360)",
-        "people": [
-          "T. Griffiths"
-        ],
-        "hours": "MW 11:00-12:20",
         "room": "",
         "term": {
           "year": 2022,
@@ -370,22 +354,6 @@
           "S. Rusinkiewicz"
         ],
         "hours": "TTh 3:00-4:20",
-        "room": "",
-        "term": {
-          "year": 2022,
-          "period": "Fall",
-          "term": "Fall 2022",
-          "internal": "fall22",
-          "sortkey": "2022_1"
-        }
-      },
-      {
-        "course": "COS 432",
-        "title": "Information Security",
-        "people": [
-          "P. Mittal"
-        ],
-        "hours": "TTh 11:00-12:20",
         "room": "",
         "term": {
           "year": 2022,
@@ -598,7 +566,7 @@
           "J. Deng"
         ],
         "hours": "MW 1:30-2:50",
-        "room": "",
+        "room": "CS104",
         "term": {
           "year": 2022,
           "period": "Fall",
@@ -632,7 +600,7 @@
           "J. Mayer"
         ],
         "hours": "W 1:00-4:00",
-        "room": "",
+        "room": "RH020",
         "term": {
           "year": 2022,
           "period": "Fall",
