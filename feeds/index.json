@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-courses/",
-  "timestamp": "2022-08-27T08:08:52.706148",
+  "timestamp": "2022-09-03T08:09:09.229293",
   "data": {
     "fall22": [
       {
@@ -10,7 +10,7 @@
           "B. Kernighan"
         ],
         "hours": "MW 1:30-2:50",
-        "room": "",
+        "room": "AB219",
         "term": {
           "year": 2022,
           "period": "Fall",
@@ -28,7 +28,7 @@
           "A. Kaplan"
         ],
         "hours": "Th 3:00-4:20",
-        "room": "",
+        "room": "MC50",
         "term": {
           "year": 2022,
           "period": "Fall",
@@ -44,7 +44,7 @@
           "C. Moretti"
         ],
         "hours": "MW 10:00-10:50",
-        "room": "",
+        "room": "FC101",
         "term": {
           "year": 2022,
           "period": "Fall",
@@ -126,7 +126,7 @@
           "R. Adams"
         ],
         "hours": "MW 12:30-1:20",
-        "room": "",
+        "room": "FC008",
         "term": {
           "year": 2022,
           "period": "Fall",
@@ -191,7 +191,7 @@
           ""
         ],
         "hours": "MW 11:00-12:20",
-        "room": "",
+        "room": "FC008",
         "term": {
           "year": 2022,
           "period": "Fall",
@@ -208,7 +208,7 @@
           "R. Fong"
         ],
         "hours": "TTh 11:00-12:20",
-        "room": "",
+        "room": "CS104",
         "term": {
           "year": 2022,
           "period": "Fall",
@@ -224,7 +224,7 @@
           "A. Appel"
         ],
         "hours": "MW 10:00-10:50",
-        "room": "",
+        "room": "CS104",
         "term": {
           "year": 2022,
           "period": "Fall",
@@ -241,7 +241,7 @@
           "R. Dondero"
         ],
         "hours": "TTh 3:00-4:20",
-        "room": "",
+        "room": "FR302",
         "term": {
           "year": 2022,
           "period": "Fall",
@@ -273,7 +273,7 @@
           "D. August"
         ],
         "hours": "TTh 1:30-2:50",
-        "room": "",
+        "room": "CS104",
         "term": {
           "year": 2022,
           "period": "Fall",
@@ -289,7 +289,7 @@
           ""
         ],
         "hours": "MW 11:00-12:20",
-        "room": "",
+        "room": "FC006",
         "term": {
           "year": 2022,
           "period": "Fall",
@@ -322,7 +322,7 @@
           "W. Lloyd"
         ],
         "hours": "MW 10:00-10:50",
-        "room": "",
+        "room": "ATN101",
         "term": {
           "year": 2022,
           "period": "Fall",
@@ -338,7 +338,7 @@
           "R. Tarjan"
         ],
         "hours": "MW 11:00-12:20",
-        "room": "",
+        "room": "FC101",
         "term": {
           "year": 2022,
           "period": "Fall",
@@ -354,7 +354,7 @@
           "S. Rusinkiewicz"
         ],
         "hours": "TTh 3:00-4:20",
-        "room": "",
+        "room": "FC101",
         "term": {
           "year": 2022,
           "period": "Fall",
@@ -370,7 +370,7 @@
           "J. Singh"
         ],
         "hours": "MW 11:00-12:20",
-        "room": "",
+        "room": "GH10",
         "term": {
           "year": 2022,
           "period": "Fall",
@@ -386,7 +386,7 @@
           "B. Chazelle"
         ],
         "hours": "MW 1:30-2:50",
-        "room": "",
+        "room": "FC101",
         "term": {
           "year": 2022,
           "period": "Fall",
@@ -452,7 +452,7 @@
           ""
         ],
         "hours": "MW 3:00-4:20",
-        "room": "",
+        "room": "MC46",
         "term": {
           "year": 2022,
           "period": "Fall",
@@ -485,7 +485,7 @@
           "E. Hazan"
         ],
         "hours": "TTh 11:00-12:20",
-        "room": "",
+        "room": "TL003",
         "term": {
           "year": 2022,
           "period": "Fall",
@@ -550,7 +550,7 @@
           "H. Yu"
         ],
         "hours": "TTh 1:30-2:50",
-        "room": "",
+        "room": "TL003",
         "term": {
           "year": 2022,
           "period": "Fall",
@@ -712,7 +712,7 @@
         "people": [
           "E. Zhong"
         ],
-        "hours": "Th 1:30-3:50",
+        "hours": "Th 3:00-5:00",
         "room": "",
         "term": {
           "year": 2022,
