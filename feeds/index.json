@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-courses/",
-  "timestamp": "2022-09-03T08:09:09.229293",
+  "timestamp": "2022-09-10T08:09:27.602058",
   "data": {
     "fall22": [
       {
@@ -24,7 +24,8 @@
         "title": "Computer Science: An Interdisciplinary Approach",
         "people": [
           "K. Wayne",
-          "R. Fong",
+          "P. Paredes",
+          "J. Lumbroso",
           "A. Kaplan"
         ],
         "hours": "Th 3:00-4:20",
@@ -41,7 +42,9 @@
         "course": "COS 217",
         "title": "Introduction to Programming Systems",
         "people": [
-          "C. Moretti"
+          "C. Moretti",
+          "D. Gabai",
+          "X. Li"
         ],
         "hours": "MW 10:00-10:50",
         "room": "FC101",
@@ -58,7 +61,8 @@
         "title": "Algorithms and Data Structures",
         "people": [
           "G. Kol",
-          "D. Leyzberg"
+          "D. Leyzberg",
+          "J. Lumbroso"
         ],
         "hours": "TTh 11:00-12:20",
         "room": "FC101",
@@ -76,8 +80,8 @@
         "people": [
           ""
         ],
-        "hours": "M 1:30-4:20",
-        "room": "TL012",
+        "hours": "MWF 10:00-10:50",
+        "room": "IL101",
         "term": {
           "year": 2022,
           "period": "Fall",
@@ -92,8 +96,8 @@
         "people": [
           ""
         ],
-        "hours": "W 1:30-4:20",
-        "room": "IL200",
+        "hours": "TTh 10:00-10:50",
+        "room": "IL101",
         "term": {
           "year": 2022,
           "period": "Fall",
@@ -141,8 +145,8 @@
         "people": [
           ""
         ],
-        "hours": "M 7:30-10:20",
-        "room": "",
+        "hours": "TTh 1:30-2:50",
+        "room": "FC101",
         "term": {
           "year": 2022,
           "period": "Fall",
@@ -257,7 +261,7 @@
           ""
         ],
         "hours": "TTh 3:00-4:20",
-        "room": "",
+        "room": "CS104",
         "term": {
           "year": 2022,
           "period": "Fall",
@@ -273,7 +277,7 @@
           "D. August"
         ],
         "hours": "TTh 1:30-2:50",
-        "room": "CS104",
+        "room": "FC004",
         "term": {
           "year": 2022,
           "period": "Fall",
@@ -302,8 +306,7 @@
         "course": "COS 397",
         "title": "Junior Independent Work (B.S.E. candidates only)",
         "people": [
-          "K. Jamieson",
-          "R. Fish"
+          ""
         ],
         "hours": "",
         "room": "",
@@ -367,7 +370,8 @@
         "course": "COS 448",
         "title": "Innovating Across Technology, Business, and Marketplaces",
         "people": [
-          "J. Singh"
+          "J. Singh",
+          "R. Fish"
         ],
         "hours": "MW 11:00-12:20",
         "room": "GH10",
@@ -402,7 +406,7 @@
           "T. Griffiths"
         ],
         "hours": "TTh 11:00-12:20",
-        "room": "",
+        "room": "RH002",
         "term": {
           "year": 2022,
           "period": "Fall",
@@ -436,7 +440,7 @@
           ""
         ],
         "hours": "TTh 11:00-12:20",
-        "room": "",
+        "room": "FC004",
         "term": {
           "year": 2022,
           "period": "Fall",
@@ -465,8 +469,7 @@
         "course": "COS 497",
         "title": "Senior Independent Work (B.S.E. candidates only)",
         "people": [
-          "K. Jamieson",
-          "R. Fish"
+          ""
         ],
         "hours": "",
         "room": "",
@@ -485,7 +488,7 @@
           "E. Hazan"
         ],
         "hours": "TTh 11:00-12:20",
-        "room": "TL003",
+        "room": "EQA224",
         "term": {
           "year": 2022,
           "period": "Fall",
@@ -501,7 +504,7 @@
           ""
         ],
         "hours": "MW 1:30-2:50",
-        "room": "",
+        "room": "FC111",
         "term": {
           "year": 2022,
           "period": "Fall",
@@ -517,7 +520,7 @@
           "Z. Kincaid"
         ],
         "hours": "MW 11:00-12:20",
-        "room": "",
+        "room": "MC64",
         "term": {
           "year": 2022,
           "period": "Fall",
@@ -533,7 +536,7 @@
           "W. Lloyd"
         ],
         "hours": "MW 10:00-10:50",
-        "room": "",
+        "room": "ATN101",
         "term": {
           "year": 2022,
           "period": "Fall",
@@ -584,7 +587,7 @@
           "C. McWhite"
         ],
         "hours": "TTh 11:00-12:20",
-        "room": "",
+        "room": "IL101",
         "term": {
           "year": 2022,
           "period": "Fall",
@@ -633,7 +636,7 @@
           "M. Weinberg"
         ],
         "hours": "MW 1:30-2:50",
-        "room": "",
+        "room": "SH001",
         "term": {
           "year": 2022,
           "period": "Fall",
@@ -649,7 +652,7 @@
           "O. Russakovsky"
         ],
         "hours": "MW 3:00-4:20",
-        "room": "",
+        "room": "FC008",
         "term": {
           "year": 2022,
           "period": "Fall",
@@ -665,7 +668,7 @@
           "B. Raphael"
         ],
         "hours": "F 10:00-12:20",
-        "room": "",
+        "room": "FC007",
         "term": {
           "year": 2022,
           "period": "Fall",
@@ -681,7 +684,7 @@
           "D. Chen"
         ],
         "hours": "MW 10:30-11:50",
-        "room": "",
+        "room": "SH101",
         "term": {
           "year": 2022,
           "period": "Fall",
@@ -697,7 +700,7 @@
           "M. Braverman"
         ],
         "hours": "F 10:30-1:30",
-        "room": "",
+        "room": "FC005",
         "term": {
           "year": 2022,
           "period": "Fall",
@@ -713,7 +716,7 @@
           "E. Zhong"
         ],
         "hours": "Th 3:00-5:00",
-        "room": "",
+        "room": "jrrbA02",
         "term": {
           "year": 2022,
           "period": "Fall",
