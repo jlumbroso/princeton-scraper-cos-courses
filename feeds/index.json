@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-courses/",
-  "timestamp": "2022-09-17T08:09:21.648255",
+  "timestamp": "2022-09-24T08:11:28.293427",
   "data": {
     "fall22": [
       {
@@ -456,7 +456,7 @@
           ""
         ],
         "hours": "MW 3:00-4:20",
-        "room": "MC46",
+        "room": "TL003",
         "term": {
           "year": 2022,
           "period": "Fall",
